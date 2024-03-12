@@ -39,7 +39,7 @@ It includes 10 000 of the most popular and relevant songs since the 60's accordi
 
 Some packages and APIs were used: [Pyspark](https://spark.apache.org/docs/latest/api/python/index.html), [Spark ML](https://spark.apache.org/docs/latest/ml-guide.html), [Pandas](https://pandas.pydata.org/), [Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/), [Numpy](https://numpy.org/), [Scikit-Learn](https://scikit-learn.org/stable/), [TensorFlow](https://www.tensorflow.org/?hl=pt-br) and [Pydeequ](https://pydeequ.readthedocs.io/en/latest/README.html).
 
-The study begins with an understanding section, statistical analysis and relevant queries to be made about the subject, followed by an cleaning and data preparation section for further models that predict average popular song duration for the next years until 2040. Also ther variables prediction, which are loudness, energy and danceability. Finally, it was implemented some experimental models to try to predict the popularity of the song, which proved to be challenging, as analysis show that this variable practically doesn't have a significant relation with the other variables.
+The study begins with an understanding section, statistical analysis and relevant queries to be made about the subject, followed by a cleaning and data preparation section for further models that predict average popular song duration for the next years until 2040. Also other variables prediction, such as loudness, energy and danceability. Finally, it was implemented some experimental models to try to predict the popularity of one song based on its characteristics, which proved to be challenging, as analysis show that this variable practically doesn't have a significant relation with the other variables.
 
 -----
 
