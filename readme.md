@@ -55,7 +55,7 @@ In short, this study found that songs have become more danceable, more energetic
 
 ![Average Duration vs Time](/plots/duration_time.png)
 
-This shows that songs average lasting experienced a rapid growth from the 60's to the 80's, but since the 90's, average duration have been deacreasing at a very steady and defined rate.
+This shows that songs average lasting experienced a rapid growth from the 60's to the 80's, but since the 90's, average duration have been decreasing at a very steady and defined rate.
 
 ![Linear Decay Duration](/plots/corr_duration.png)
 
